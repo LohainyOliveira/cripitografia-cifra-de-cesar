@@ -1,0 +1,8 @@
+C:\Users\Win 10\Downloads\Danilo\CriptografarDescriptografar3.0\obj\Debug\CriptografarDescriptografar3.0.csproj.AssemblyReference.cache
+C:\Users\Win 10\Downloads\Danilo\CriptografarDescriptografar3.0\obj\Debug\CriptografarDescriptografar3.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win 10\Downloads\Danilo\CriptografarDescriptografar3.0\obj\Debug\CriptografarDescriptografar3.0.csproj.CoreCompileInputs.cache
+C:\Users\Win 10\Downloads\Danilo\CriptografarDescriptografar3.0\bin\Debug\CriptografarDescriptografar3.0.exe.config
+C:\Users\Win 10\Downloads\Danilo\CriptografarDescriptografar3.0\bin\Debug\CriptografarDescriptografar3.0.exe
+C:\Users\Win 10\Downloads\Danilo\CriptografarDescriptografar3.0\bin\Debug\CriptografarDescriptografar3.0.pdb
+C:\Users\Win 10\Downloads\Danilo\CriptografarDescriptografar3.0\obj\Debug\CriptografarDescriptografar3.0.exe
+C:\Users\Win 10\Downloads\Danilo\CriptografarDescriptografar3.0\obj\Debug\CriptografarDescriptografar3.0.pdb
